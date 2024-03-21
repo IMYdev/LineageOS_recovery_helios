@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/realme/RMX3395
+LOCAL_PATH := device/infinix/helios
 
 PRODUCT_PACKAGES += fastbootd
 

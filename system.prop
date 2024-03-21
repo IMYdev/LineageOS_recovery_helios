@@ -1,9 +1,9 @@
  # Device
-ro.product.device=RMX3395
+ro.product.device=helios
 
 # Platform
-ro.hardware=mt6877
-ro.mediatek.platform=MT6877
+ro.hardware=mt6781
+ro.mediatek.platform=mt6781
 
 # Root
 ro.debuggable=1

@@ -6,13 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_RMX3395.mk \
-    $(LOCAL_DIR)/omni_RMX3395.mk
+    $(LOCAL_DIR)/lineage_helios.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_RMX3395-user \
-    lineage_RMX3395-userdebug \
-    lineage_RMX3395-eng \
-    omni_RMX3395-user \
-    omni_RMX3395-userdebug \
-    omni_RMX3395-eng
+    lineage_helios-user \
+    lineage_helios-userdebug \
+    lineage_helios-eng \
